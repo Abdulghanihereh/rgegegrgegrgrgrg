@@ -1,0 +1,56 @@
+img {
+    width: 495px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.project {
+    background-color: aqua;
+}
+
+.limonate {
+    background-color: aqua;
+}
+
+.tomato {
+    background-color: aqua;
+}
+
+.but {
+    color: white;
+    border-radius: 15px;
+    width: 80px;
+    background-color: red;
+}
+
+.butt {
+    color: white;
+    border-radius: 15px;
+    width: 80px;
+    background-color: blue;
+}
+
+.buttt {
+    color: white;
+    border-radius: 15px;
+    width: 80px;
+    background-color: yellow;
+}
+
+.cardss {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.butttt {
+    color: white;
+    border-radius: 15px;
+    width: 80px;
+    background-color: green;
+}
